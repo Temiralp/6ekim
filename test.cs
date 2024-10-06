@@ -1,5 +1,5 @@
 
-12string Veri = "Kullan c Verisi";
+1452string Veri = "Kullan c Verisi";
 
 
 string Veri = "Kullan c Verisi";
