@@ -1,1 +1,2 @@
-string Veri = "KullanýcýVerisi";
+string Veri = "Kullanï¿½cï¿½Verisi";
+string hello = "Hello World!"
