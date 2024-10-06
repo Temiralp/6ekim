@@ -1,18 +1,1 @@
-public class Test{
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-}
+string Veri = "KullanıcıVerisi";
