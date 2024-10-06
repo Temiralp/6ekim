@@ -1,7 +1,7 @@
 
-string Veri = "KullanýcýVerisi";
+string Veri = "Kullanï¿½cï¿½Verisi";
 int Yas = 23;
-bool ConflictVarMý = true;
+bool ConflictVarMï¿½ = true;
 
 public void Fonksiyon()
 {
@@ -14,5 +14,9 @@ public void Run()
 }
 
 string Veri = "Kullanï¿½cï¿½Verisi";
+
+
+puplic classN{}
+
 string hello = "Hello World!"
 
