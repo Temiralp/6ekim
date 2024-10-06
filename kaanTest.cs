@@ -1,1 +1,0 @@
-string Selam = "Kaan gardaþýma selamlar";
