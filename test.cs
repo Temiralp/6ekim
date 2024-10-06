@@ -1,5 +1,12 @@
+
 print()
+
+
+1452string Veri = "Kullan c Verisi";
+
+
 string Veri = "Kullan c Verisi";
+
 int Yas = 23;
 bool ConflictVarM  = true;
 
