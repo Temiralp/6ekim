@@ -1,4 +1,7 @@
 
+print()
+
+
 1452string Veri = "Kullan c Verisi";
 
 
